@@ -1,1 +1,3 @@
+# Para instalar los paquetes, ejecutar: pip install -r requirements.txt
+
 yt-dlp
